@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **dohaelhady14@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1EhTQ3NuFDX1QbyHZ2NDeTLR1-HrdSt1l/view?usp=share_link)
+- 📄 Know about my experiences: [My Resume](https://github.com/DohaElHady/DohaElHady/blob/main/Doha%20ElHady-%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
