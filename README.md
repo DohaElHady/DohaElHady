@@ -2,14 +2,9 @@
 <h3 align="center">A passionate software engineer specialized in machine learning, deep learning, and computer vision.</h3>
 
 - 📫 How to reach me: **dohaelhady14@gmail.com**
-
 - 📄 Know about my experiences: [My Resume](https://github.com/DohaElHady/DohaElHady/blob/main/Doha%20ElHady-%20Resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/doha-elhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doha-elhady" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dohaelhady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dohaelhady" height="30" width="40" /></a>
-</p>
+- 💻 Check my previous work: [My Portfolio](https://github.com/DohaElHady/DohaElHady/blob/main/DohaElHady-Portfolio.md)
+- 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/doha-elhady) - [HackerRank](https://www.hackerrank.com/dohaelhady)
 <br />
 <h2 align="center">Technical Skills</h2>
 <h4 align="left">Programming Languages:</h4>
