@@ -28,7 +28,8 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 
 <p align="center"> 
 <a href="https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223578944-41748a39-f16c-4135-a19e-70190d3959d6.png" alt="BodyParts" width="800" height="250"/> </a> </p>
-<h3 align="left"> 2. Car Exterior Body Parts Localization</h3>
+
+### 2. Car Exterior Body Parts Localization [^1]
 
 **Problem:** Localize 14 exterior car body parts in case of no or partial damage.<br />
 **Technolgies:** Deep learning using Yolov5 & Yolov8.<br />
@@ -40,7 +41,8 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 <h2 align="center">B. Robotics and Embedded Systems Projects</h2>
 <p align="center"> 
 <a href="https://github.com/DohaElHady/TurtleBot3-ROS-Maze-Navigation" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223705199-65a0bce0-92c0-4cc8-b6d2-bf77d8a3fd5c.png" alt="Turtlebot3 Navigation" width="800" height="250"/> </a> </p>
-<h3 align="left"> 1. ROS-based Turtlebot3 Maze Navigation</h3>
+
+### 1. ROS-based Turtlebot3 Maze Navigation [^1]
 
 **Requirements/Aim:** Autonomous navigation through lanes built of red tapes and walls, with the objective of reaching picking and placing locations from the robot’s home position by avoiding obstacles and manipulating objects, and finally returning back of the robot to its home.<br />
 **Technolgies:** ROS & SLAM.<br />
@@ -52,7 +54,8 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 
 <p align="center"> 
 <a href="https://github.com/DohaElHady/RoboNurse" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223711730-2ab0bdbf-0d69-41ef-b33c-27b58f045c20.png" alt="RONA" width="800" height="250"/> </a> </p>
-<h3 align="left"> 2. Robot Nurse Assistant (RONA)</h3>
+
+### 2. Robot Nurse Assistant (RONA) [^2]
 
 **Requirements/Aim:** Ease up the patients checkup process for some sections in the hospital as cardio, post anesthesia care unit, and infection control unit specially for the hospitals that can’t afford buying a care unit for each single room in it.<br />
 **Technolgies:** Robotics, Cloud(Google Firebase), & Face Recognition. <br />
@@ -64,13 +67,32 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 **Outcome:** [Demonstration Video]()<br />
 **Research Paper:** [Robo-Nurse Healthcare Complete System Using Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-031-03918-8_17) - Springer, The 8th International Conference on Advanced Machine Learning and Technologies and Applications·
 
- <br />
+<h2 align="center"> </h2>
+
+<p align="center"> 
+<a href="https://github.com/DohaElHady/GloveForDeaf" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223726152-996acf33-c477-43d1-890e-3bfc3bdb8697.png" alt="glovefordeaf" width="800" height="250"/> </a> </p>
+
+
+### 3. Glove for Deaf
+
+**Requirements/Aim:** Design a glove that translates deaf sign language into text through LCD.<br />
+**Technolgy:** Embedded Systems.<br />
+**Microcontroller:** AVR(Atmega32A). <br />
+**Programming Language:** Embedded C. <br />
+**Hardware:** 5 Bend Sensors, 16*2 Blue LCD, & Amit Kit for interface.<br />
+**Software Drivers:** DIO, ADC, LCD, Flex_sensor. <br />
+**Outcome:** [Demonstration Video](https://github.com/DohaElHady/GloveForDeaf/blob/main/GloveForDeaf_Video.mov)<br />
+
+<br />
 <h2 align="center">C. Python-based General Projects</h2>
 
 
- <br />
+<br />
 <h2 align="center">D. CPP-based General Projects</h2>
 
 
-[^1]: Contributors:
-[Mohamed Elahl](https://github.com/MohamedElahl) - [Hassan Mohamed](https://github.com/Hsnmhmd) - [Karim Youssef](https://github.com/KarimYoussef98) - [Doha ElHady](https://github.com/DohaElHady)
+[^1]: Contributors: 
+[Doha ElHady](https://github.com/DohaElHady) - [Mohamed Elahl](https://github.com/MohamedElahl) - [Hassan Mohamed](https://github.com/Hsnmhmd) - [Karim Youssef](https://github.com/KarimYoussef98)
+
+[^2]: Contributors: 
+[Doha ElHady](https://github.com/DohaElHady) - Mariam Essam - Asmaa Samir - Mariam Mohammed - Omnia Mahmoud - Samaa Hany
