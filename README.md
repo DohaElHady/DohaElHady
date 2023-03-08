@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Doha 👋</h1>
+<h1 align="center">Aloha There, I'm Doha 👋</h1>
 <h3 align="center">A passionate software engineer specialized in machine learning, deep learning, and computer vision.</h3>
 
 - 📫 How to reach me: **dohaelhady14@gmail.com**
