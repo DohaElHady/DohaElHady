@@ -19,7 +19,7 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 
 **Problem:** Compiler type and optimization level classification for portable executables.<br />
 **Technolgies:** Machine learning & deep learning.<br />
-**Tools:** Jupyter Notebooks & Linex command-line.<br />
+**Tools:** Jupyter Notebooks & Linux command-line.<br />
 **Pythonic tool stack:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, & Tensorflow. <br />
 **Results:** The best test accuracy of 100% was achieved by the stacking model for the classification of the compiler family, and 85.9%  for the optimization level by the deep learning model.
 
