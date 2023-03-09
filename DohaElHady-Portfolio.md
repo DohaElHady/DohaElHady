@@ -27,7 +27,7 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 <h2 align="center"> </h2>
 
 <p align="center"> 
-<a href="https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223578944-41748a39-f16c-4135-a19e-70190d3959d6.png" alt="BodyParts" width="800" height="250"/> </a> </p>
+<a href="https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223578944-41748a39-f16c-4135-a19e-70190d3959d6.png" alt="BodyParts" width="800" /> </a> </p>
 
 ### 2. Car Exterior Body Parts Localization [^1]
 
@@ -40,7 +40,7 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 <br />
 <h2 align="center">B. Robotics and Embedded Systems Projects</h2>
 <p align="center"> 
-<a href="https://github.com/DohaElHady/TurtleBot3-ROS-Maze-Navigation" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223705199-65a0bce0-92c0-4cc8-b6d2-bf77d8a3fd5c.png" alt="Turtlebot3 Navigation" width="800" height="250"/> </a> </p>
+<a href="https://github.com/DohaElHady/TurtleBot3-ROS-Maze-Navigation" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223705199-65a0bce0-92c0-4cc8-b6d2-bf77d8a3fd5c.png" alt="Turtlebot3 Navigation" width="800" /> </a> </p>
 
 ### 1. ROS-based Turtlebot3 Maze Navigation [^1]
 
@@ -53,7 +53,7 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 <h2 align="center"> </h2>
 
 <p align="center"> 
-<a href="https://github.com/DohaElHady/RoboNurse" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223711730-2ab0bdbf-0d69-41ef-b33c-27b58f045c20.png" alt="RONA" width="800" height="250"/> </a> </p>
+<a href="https://github.com/DohaElHady/RoboNurse" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223711730-2ab0bdbf-0d69-41ef-b33c-27b58f045c20.png" alt="RONA" width="800" /> </a> </p>
 
 ### 2. Robot Nurse Assistant (RONA) [^2]
 
@@ -70,7 +70,7 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 <h2 align="center"> </h2>
 
 <p align="center"> 
-<a href="https://github.com/DohaElHady/GloveForDeaf" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223726152-996acf33-c477-43d1-890e-3bfc3bdb8697.png" alt="glovefordeaf" width="800" height="250"/> </a> </p>
+<a href="https://github.com/DohaElHady/GloveForDeaf" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223726152-996acf33-c477-43d1-890e-3bfc3bdb8697.png" alt="glovefordeaf" width="800" /> </a> </p>
 
 
 ### 3. Glove for Deaf
