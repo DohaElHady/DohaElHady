@@ -13,7 +13,7 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 <h2 align="center">A. Machine and Deep Learning Projects</h2>
 
 <p align="center"> 
-<a href="https://github.com/DohaElHady/Compiler-Provenance-Attribution" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223572264-e004089b-2efa-4cec-b884-aa18c3db5ee6.png" alt="CompilerProvenance" width="800" height="250"/> </a> </p>
+<a href="https://github.com/DohaElHady/Compiler-Provenance-Attribution" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223572264-e004089b-2efa-4cec-b884-aa18c3db5ee6.png" alt="CompilerProvenance" width="800" /> </a> </p>
 
 ### 1. Compiler Provenance Attribution [^1]
 
