@@ -7,8 +7,6 @@ The other contributers of each team project are mentioned in the portfolio foote
 
 A.  [Machine and Deep Learning Projects](#a-machine-and-deep-learning-projects) <br />
 B.  [Robotics and Embedded Systems Projects](#b-robotics-and-embedded-systems-projects) <br />
-C.  [Python-based General Projects](#c-python-based-general-projects)<br />
-D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 
 <h2 align="center">A. Machine and Deep Learning Projects</h2>
 
@@ -82,13 +80,6 @@ D.  [CPP-based General Projects](#d-cpp-based-general-projects)<br />
 **Hardware:** 5 Bend Sensors, 16*2 Blue LCD, & Amit Kit for interface.<br />
 **Software Drivers:** DIO, ADC, LCD, Flex_sensor. <br />
 **Outcome:** [Demonstration Video](https://github.com/DohaElHady/GloveForDeaf/blob/main/GloveForDeaf_Video.mov)<br />
-
-<br />
-<h2 align="center">C. Python-based General Projects</h2>
-
-
-<br />
-<h2 align="center">D. CPP-based General Projects</h2>
 
 
 [^1]: Contributors: 
