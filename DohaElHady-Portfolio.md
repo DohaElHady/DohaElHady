@@ -19,7 +19,14 @@ B.  [Robotics and Embedded Systems Projects](#b-robotics-and-embedded-systems-pr
 **Technolgies:** Machine learning & deep learning.<br />
 **Tools:** Jupyter Notebooks & Linux command-line.<br />
 **Pythonic tool stack:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, & Tensorflow. <br />
-**Results:** The best test accuracy of 100% was achieved by the stacking model for the classification of the compiler family, and 85.9%  for the optimization level by the deep learning model.
+**Results:** The best test accuracy of 100% was achieved by the stacking model for the classification of the compiler family, and 85.9%  for the optimization level by the deep learning model.<br />
+
+**Personal contributions:** 
+1. Automated the preprocessing of 100+ executable files through writing [Python disassembler script](https://github.com/DohaElHady/DatasetPreparation-LifeSaving-Scripts/blob/main/PortableExecutables-DatasetPreparation/PE_diassembler.py).
+2. Cleaned the data in Python notebook through Pandas (droped nulls, splitted the data to train and test).
+3. Applied feature engineering using ANOVA and Chi2 with k-fold cross validation.
+4. Visualized the data using TSNE.
+5. Built, trained, and tuned a deep neural network. 
 
 
 <h2 align="center"> </h2>
@@ -33,7 +40,25 @@ B.  [Robotics and Embedded Systems Projects](#b-robotics-and-embedded-systems-pr
 **Technolgies:** Deep learning using Yolov5 & Yolov8.<br />
 **Tools:** Jupyter Notebooks.<br />
 **Pythonic tool stack:** PyTorch. <br />
-**Results:** The best test mAP of 91.8% was achieved by Yolov8.
+**Results:** The best test mAP of 91.8% was achieved by Yolov8.<br />
+
+**Personal contributions:** 
+1. Automated dataset annotations preparation through writing [Python annotations-convert script](https://github.com/DohaElHady/DatasetPreparation-LifeSaving-Scripts/blob/main/YOLO-CustomDatasetPreparation/YOLO_AnnotationsConvert.py).
+2. Manually annotated images using Microsoft Visual Object Tagging Tool (VOTT).
+3. Splitted the data to train and test.
+4. Applied transfer learning and fine-tuning on YOLO model. 
+5. Visualized the results using tensorboards.
+
+<h2 align="center"> </h2>
+<p align="center"> 
+<a href="https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/232062772-cd1d6ff1-80b9-4d39-8853-d4a69b202337.png" alt="Other Projects" width="800" /> </a> </p>
+
+### 3. [ComputerVision-MicroProjects](https://github.com/DohaElHady/ComputerVision-MicroProjects)
+#### a. Birds Classification
+1. Visualized data samples using Matliplot grids.
+2. Built a fully victorized KNN model.
+3. Trained SVM and Logistic Regression models.
+
 
 <br />
 <h2 align="center">B. Robotics and Embedded Systems Projects</h2>
@@ -45,9 +70,10 @@ B.  [Robotics and Embedded Systems Projects](#b-robotics-and-embedded-systems-pr
 **Requirements/Aim:** Autonomous navigation through lanes built of red tapes and walls, with the objective of reaching picking and placing locations from the robot’s home position by avoiding obstacles and manipulating objects, and finally returning back of the robot to its home.<br />
 **Technolgies:** ROS & SLAM.<br />
 **ROS Packages:** SLAM, Navigation, & Manipulation. <br />
-<br />
-**Outcome:** [Demonstration Video](https://github.com/DohaElHady/TurtleBot3-ROS-Maze-Navigation/blob/main/Demonstration%20Videos/Tasks%20Demonestration.mp4)
+**Outcome:** [Demonstration Video](https://github.com/DohaElHady/TurtleBot3-ROS-Maze-Navigation/blob/main/Demonstration%20Videos/Tasks%20Demonestration.mp4)<br />
 
+
+<br />
 <h2 align="center"> </h2>
 
 <p align="center"> 
@@ -64,6 +90,12 @@ B.  [Robotics and Embedded Systems Projects](#b-robotics-and-embedded-systems-pr
 <br />
 **Outcome:** [Demonstration Video]()<br />
 **Research Paper:** [Robo-Nurse Healthcare Complete System Using Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-031-03918-8_17) - Springer, The 8th International Conference on Advanced Machine Learning and Technologies and Applications·
+
+**Personal contributions:** 
+1. Set up RasbianOS on the Raspberry Pi.
+2. Wrote Python code to control sensors using I2C communication protocol.
+3. Wrote C++ code to control robot motion.
+4. Built the robot GUI using Python Tkinter library.
 
 <h2 align="center"> </h2>
 
