@@ -106,9 +106,9 @@ B. [Machine and Deep Learning Projects](#b-machine-and-deep-learning-projects) <
 
 <h2 align="center"> </h2>
 <p align="center"> 
-<a href="https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/232062772-cd1d6ff1-80b9-4d39-8853-d4a69b202337.png" alt="Other Projects" width="800" /> </a> </p>
+<a href="https://github.com/DohaElHady/ComputerVision-MicroProjects" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/232062772-cd1d6ff1-80b9-4d39-8853-d4a69b202337.png" alt="Other Projects" width="800" /> </a> </p>
 
-### 3. [ComputerVision-MicroProjects](https://github.com/DohaElHady/ComputerVision-MicroProjects)
+### 3. ComputerVision-MicroProjects
 #### a. Birds Classification
 1. Visualized data samples using Matliplot grids.
 2. Built a fully victorized KNN model.
