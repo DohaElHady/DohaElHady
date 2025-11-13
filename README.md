@@ -1,5 +1,5 @@
 <h1 align="center">Aloha There, I'm Doha 👋</h1>
-<h3 align="center">A passionate software engineer specialized in embedded systems and passionate about deep learning and computer vision.</h3>
+<h3 align="center">A driven algorithm engineer with expertise in embedded systems, sensor fusion, and perception algorithms. Skilled in deep learning and computer vision, with hands-on experience in RADAR, ultrasonic, and Lidar processing, as well as end-to-end AI/ML model development.</h3>
 
 - 📫 How to reach me: **dohaelhady14@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://github.com/DohaElHady/DohaElHady/blob/main/Doha%20Elhady-%20Resume%20-%20Algorithm%20Engineer.pdf)
