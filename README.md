@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer specialized in embedded systems and passionate about deep learning and computer vision.</h3>
 
 - 📫 How to reach me: **dohaelhady14@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://github.com/DohaElHady/DohaElHady/blob/main/Doha%20ElHady-%20Resume.pdf)
+- 📄 Know about my experiences: [My Resume](https://github.com/DohaElHady/DohaElHady/blob/main/Doha%20Elhady-%20Resume%20-%20Algorithm%20Engineer.pdf)
 - 💻 Check my previous work: [My Portfolio](https://github.com/DohaElHady/DohaElHady/blob/main/DohaElHady-Portfolio.md)
 - 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/doha-elhady) - [HackerRank](https://www.hackerrank.com/dohaelhady)
 <br />
